@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "素顔 feat. TOCCHI",
+  "base_artist": "BASI",
+  "createdAt": "2026-03-06T09:59:10.087562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/01_素顔_パスピエ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/02_素顔_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "渡辺美里",
+      "has_synced": true,
+      "path": "select/03_素顔_渡辺美里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/04_素顔_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "ユー(月宮 みどり)",
+      "has_synced": true,
+      "path": "select/05_素顔_ユー(月宮_みどり).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "素顔",
+      "artist": "岡崎律子",
+      "has_synced": true,
+      "path": "select/06_素顔_岡崎律子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TRACK5　メリーさん　 -素顔-",
+      "artist": "しろくまソーダ",
+      "has_synced": true,
+      "path": "select/07_TRACK5_メリーさん_-素顔-_しろくまソーダ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素顔 feat. TOCCHI",
+      "artist": "BASI",
+      "has_synced": false,
+      "path": "select/pl_01_素顔_feat._TOCCHI_BASI.txt"
+    }
+  ]
+}
